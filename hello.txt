@@ -4,9 +4,19 @@ this is my new line
 
 add third line 
 
+Configuration:
+
+1. Git config --global user.name "your name"
+2. Git config --global user.email "email id"
+
+Local repo:
+
 1. Git init
 2. git add # to add the file for tracking
 3. git commit # commiting your local repo
 4. git status # verify any changes in the folder
 5. git log # commit history
 6. git diff # difference between previous commit and existing file version
+7. git show # give the difference between previous commit and current changes.
+
+Branching
