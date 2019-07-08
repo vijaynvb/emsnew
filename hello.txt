@@ -3,3 +3,10 @@ writing first commit data
 this is my new line
 
 add third line 
+
+1. Git init
+2. git add # to add the file for tracking
+3. git commit # commiting your local repo
+4. git status # verify any changes in the folder
+5. git log # commit history
+6. git diff # difference between previous commit and existing file version
